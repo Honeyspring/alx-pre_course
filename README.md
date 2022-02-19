@@ -1,1 +1,1 @@
-My first readme
+In this repo,there are series of task completed in order to get famiiar with using git in the terminal.This is required for the ALX project 0x01. Git and it covers creating directory,renaming diectories /files,deleting files, editing files,commiting changes and pushing changes to mention a few.
